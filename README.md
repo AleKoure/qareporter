@@ -1,25 +1,19 @@
 
 # qareporter
 
-<!-- badges: start -->
-<!-- badges: end -->
+The goal of qareporter is to generate QA report using LLMs...
 
-The goal of qareporter is to ...
+## How to use
 
-## Installation
+Setup Gemini API by adding the environmental variable
 
-You can install the development version of qareporter like so:
-
-``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+```
+GEMINI_API_KEY
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
+This is a basic example that generate a report for `ini` package
 
 ``` r
 library(qareporter)
 build_report("https://github.com/dvdscripter/ini")
 ```
-
