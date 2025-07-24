@@ -138,6 +138,3 @@ Example:
 - Testing: Run `devtools::test()` in CI.
 - Docs: Render with `pkgdown::build_site()`.
 
----
-
-*Adapt this prompt for use in GitLab CI, bots, or manual reviews with LLM assistance.*
