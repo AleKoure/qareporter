@@ -18,5 +18,5 @@ library(qareporter)
 build_report("https://github.com/dvdscripter/ini")
 ```
 
-- [Example generated report](./test_review.md)
+- [Example report generated for `ini`](./test_review.md)
 - [Prompt used](./inst/package_review_prompt.md)
