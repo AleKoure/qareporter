@@ -16,7 +16,7 @@ and performs an API call with `ellmer` and this [prompt](./inst/package_review_p
 
 1. Get Gemini API key: https://aistudio.google.com/app/api-keys
 
-2. Add Gemini API key as the environmental variable (e.g., `usethis::edit_r_environ()`):
+2. Add Gemini API key as the environmental variable (e.g., `usethis::edit_r_environ()`) and restart R:
 
 ```
 GEMINI_API_KEY={YOUR_API_KEY}
