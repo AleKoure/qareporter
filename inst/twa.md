@@ -53,9 +53,7 @@ Automation helps us focus on scientific and statistical reasoning.
 ## 5. Automation Ratio
 To track review maturity:
 
-\[
-\text{Automation Ratio} = \frac{\text{Automated Review Actions}}{\text{Automated + Manual Review Actions}}
-\]
+Automation Ratio = Automated Review Actions / (Automated + Manual Review Actions)
 
 ### Targets
 | Level | Ratio | Description |
