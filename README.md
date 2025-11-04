@@ -8,7 +8,7 @@ In this initial draft phase, it gathers data using:
 - `devtools::check()`
 - `lintr::lint_package()`
 - `covr::package_coverage()`
-- `Dump package to a single file`
+- Dump package to a single file
 
 and performs an API call with `ellmer` and this [prompt](./inst/package_review_prompt.md)
 
